@@ -1,0 +1,1 @@
+This code will train imdb data using RNN method and give sentiments pridiction 
